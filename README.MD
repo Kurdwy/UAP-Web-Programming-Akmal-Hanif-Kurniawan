@@ -10,10 +10,10 @@
 
 ### Pembagian Tugas Kelompok
 
-* User Interface - Kurniawan
+* User Interface - Kurniawan Dwi Yuliyanto
 
-* Database - Hanif
+* Database - Muhammad Hanif
 
-* Hosting - Akmal
+* Hosting - Akmal Gilang Rosadi
 
 ## Alamat web : http://uap-mhsgabut.epizy.com/
