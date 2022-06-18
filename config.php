@@ -1,9 +1,9 @@
 <?php
 
-$server = "localhost";
-$user = "root";
-$password = "";
-$nama_database = "pendaftaran";
+$server = "sql104.epizy.com";
+$user = "epiz_31984184";
+$password = "FPg6jnSz2fAaoP3";
+$nama_database = "epiz_31984184_pendaftaran";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
 
